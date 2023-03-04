@@ -1,0 +1,49 @@
+h1 {
+    text-decoration: underline;
+}
+
+div {
+    font-size: 20px;
+    width: 600px;
+}
+
+.p1 {
+    color: blue;
+}
+
+span {
+    color: rgb(255, 192, 1);
+    text-decoration: underline;
+}
+
+mark {
+    text-decoration: underline;
+    color: rgb(145, 10, 10);
+}
+
+.l1 {
+    font-weight: bold;
+}
+
+a {
+    color: red;
+}
+
+
+
+.l2 {
+    margin-bottom: 20px;
+
+}
+
+.lbold {
+    font-weight: bold;
+}
+
+.list2 li {
+    color: blue;
+}
+
+.list3 {
+    list-style: none;
+}

@@ -1,0 +1,31 @@
+.allpage {
+    background-color: beige;
+    width: 850px;
+    border-right: 4px solid black;
+
+
+}
+
+p {
+    width: 250px;
+    height: 100px;
+    background-color: #a9a9a95c;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.pra {
+    float: left;
+}
+
+.clearfix {
+    clear: both
+}
+
+.secline {
+    width: fit-content;
+    overflow: auto;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+
+}

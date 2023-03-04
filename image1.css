@@ -1,0 +1,13 @@
+table td {
+    border: solid black 1px;
+    width: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 6px 5px 3px -1px rgb(138, 127, 127)
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+
+}
