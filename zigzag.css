@@ -1,0 +1,45 @@
+.yallow {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    display: inline-block;
+    border: 1px black solid;
+
+}
+
+.green {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    display: inline-block;
+    top: 20px;
+    position: relative;
+    border: 1px black solid;
+
+}
+
+.zig {
+    position: relative;
+}
+
+.ex2 {
+    position: absolute;
+    top: 50%;
+}
+
+.iner {
+    width: 70px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+
+
+}
+
+.iner:nth-child(even) {
+    display: none;
+}
